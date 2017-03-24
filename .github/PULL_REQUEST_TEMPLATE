@@ -1,11 +1,13 @@
-### What does this Pull Request do?
+### Describe the pull request. What does it do?
 
-### What are the relevant user stories or defects?
+### List all related user stories / defects:
 
-### Any background context that you want to provide?
+### Provide any background context required to evaluate the request:
 
-### Notes:
+### Additional Notes:
 
-*****************
-For the Reviewer: By approving this Pull Request, you attest that you have reviewed the proposed code changes and have verified that they comply with best practices and applicable standards.
-*****************
+********DO NOT REMOVE*********
+For the Developer: Please answer the questions above in the white space between questions. Do not modify the questions themselves. All pull requests require a code review by a developer of equal or greater skill level. Select the reviewer for this pull request on the following screen.
+
+For the Reviewer: By approving this pull request, you attest that you have reviewed the proposed code changes and have verified that they comply with best practices and applicable standards. Please include specific comments about the basis for your approval or rejection of this pull request.
+********DO NOT REMOVE*********
